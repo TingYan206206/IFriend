@@ -1,15 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:1-38:12
-INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:1-38:12
-INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:1-38:12
-INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:1-38:12
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.android.support:multidex:1.0.2] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/0a3ad8c57653c89db3811a1c6df91c28/multidex-1.0.2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/19b801fb8029453184be5fce51ee07c2/play-services-9.4.0/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/cbdff4e0aa43720807fdce1f231da790/play-services-cast-9.4.0/AndroidManifest.xml:16:1-20:12
 MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/92286ce0648fa0dfd1b8eeb2375384d8/appcompat-v7-23.4.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/98dcb2f66c2e0ea1686d3c0235838a82/animated-vector-drawable-23.4.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e63dd9cc1eaa39c060ce49d5f17eb556/support-vector-drawable-23.4.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c86823458987b8b1219da1cb73109b09/play-services-ads-9.4.0/AndroidManifest.xml:16:1-20:12
@@ -59,83 +60,25 @@ MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/tingyan/.gr
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/a362bbbd36b86ca5802413b64945979d/play-services-tasks-9.4.0/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/982829d83eab7b7a5559639ab2d7f60e/play-services-basement-9.4.0/AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b7a9e4f72362272e872d13974174317a/support-v4-23.4.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:1-38:12
-INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:1-38:12
-INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:1-38:12
+INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:10:5-32
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:3:5-32
 		INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:1-38:12
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:1-38:12
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:11-69
-uses-permission#android.permission.INTERNET
-ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:12:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ea48b59582a2b96a00d654997189c575/play-services-ads-lite-9.4.0/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ea48b59582a2b96a00d654997189c575/play-services-ads-lite-9.4.0/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ba27721d7e6125cef0d651ba6eac44aa/play-services-analytics-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ba27721d7e6125cef0d651ba6eac44aa/play-services-analytics-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b1c59bf1d1aaf106cdc6b27a6fbb475e/play-services-analytics-impl-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b1c59bf1d1aaf106cdc6b27a6fbb475e/play-services-analytics-impl-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/3783beaf9f7e02c8a2cb3ccb82b4fe01/play-services-appinvite-9.4.0/AndroidManifest.xml:19:5-67
-MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/3783beaf9f7e02c8a2cb3ccb82b4fe01/play-services-appinvite-9.4.0/AndroidManifest.xml:19:5-67
-MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/fee04e7e52ff6d0e2cf2c423490b4f16/firebase-crash-9.4.0/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/fee04e7e52ff6d0e2cf2c423490b4f16/firebase-crash-9.4.0/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/54f15c965ab19a86d572bef329921a32/play-services-gcm-9.4.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/54f15c965ab19a86d572bef329921a32/play-services-gcm-9.4.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c105dd66f2f88a28668f2edd7505e7fe/play-services-iid-9.4.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c105dd66f2f88a28668f2edd7505e7fe/play-services-iid-9.4.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/15e915c86cf6bbca2daffa4d47359663/play-services-maps-9.4.0/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/15e915c86cf6bbca2daffa4d47359663/play-services-maps-9.4.0/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e9533e0e421b9431bd530fe14ea00d23/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e9533e0e421b9431bd530fe14ea00d23/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/d8b1010bd866092df94c2521254cb6ce/firebase-analytics-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/d8b1010bd866092df94c2521254cb6ce/firebase-analytics-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/48394fdde50fdb2432834d485d12e5c9/firebase-analytics-impl-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/48394fdde50fdb2432834d485d12e5c9/firebase-analytics-impl-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c6f33ef2c09645a1708ee9c28f05231e/firebase-iid-9.4.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c6f33ef2c09645a1708ee9c28f05231e/firebase-iid-9.4.0/AndroidManifest.xml:21:5-67
-	android:name
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:12:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:13:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ea48b59582a2b96a00d654997189c575/play-services-ads-lite-9.4.0/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ea48b59582a2b96a00d654997189c575/play-services-ads-lite-9.4.0/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ba27721d7e6125cef0d651ba6eac44aa/play-services-analytics-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ba27721d7e6125cef0d651ba6eac44aa/play-services-analytics-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b1c59bf1d1aaf106cdc6b27a6fbb475e/play-services-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b1c59bf1d1aaf106cdc6b27a6fbb475e/play-services-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/15e915c86cf6bbca2daffa4d47359663/play-services-maps-9.4.0/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/15e915c86cf6bbca2daffa4d47359663/play-services-maps-9.4.0/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/bf1bd438eab1aae672661f0b3a758bbd/play-services-nearby-9.4.0/AndroidManifest.xml:5:5-79
-MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/bf1bd438eab1aae672661f0b3a758bbd/play-services-nearby-9.4.0/AndroidManifest.xml:5:5-79
-MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e9533e0e421b9431bd530fe14ea00d23/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e9533e0e421b9431bd530fe14ea00d23/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/d8b1010bd866092df94c2521254cb6ce/firebase-analytics-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/d8b1010bd866092df94c2521254cb6ce/firebase-analytics-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/48394fdde50fdb2432834d485d12e5c9/firebase-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/48394fdde50fdb2432834d485d12e5c9/firebase-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c6f33ef2c09645a1708ee9c28f05231e/firebase-iid-9.4.0/AndroidManifest.xml:20:5-79
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c6f33ef2c09645a1708ee9c28f05231e/firebase-iid-9.4.0/AndroidManifest.xml:20:5-79
-	android:name
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:13:22-76
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:14:5-80
-	android:name
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:14:22-77
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:16:5-79
-	android:name
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:16:22-76
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:18:5-36:19
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/19b801fb8029453184be5fce51ee07c2/play-services-9.4.0/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/19b801fb8029453184be5fce51ee07c2/play-services-9.4.0/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/AndroidManifest.xml:5:5-9:19
@@ -146,6 +89,8 @@ MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/tingyan/.gradle/c
 MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/92286ce0648fa0dfd1b8eeb2375384d8/appcompat-v7-23.4.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/92286ce0648fa0dfd1b8eeb2375384d8/appcompat-v7-23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/98dcb2f66c2e0ea1686d3c0235838a82/animated-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/98dcb2f66c2e0ea1686d3c0235838a82/animated-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e63dd9cc1eaa39c060ce49d5f17eb556/support-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
@@ -227,31 +172,97 @@ MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/tingyan
 MERGED from [com.android.support:support-v4:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b7a9e4f72362272e872d13974174317a/support-v4-23.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b7a9e4f72362272e872d13974174317a/support-v4-23.4.0/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:22:9-41
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:21:9-43
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:23:9-40
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:10:9-40
 	android:name
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:19:9-43
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:6:9-43
+activity#com.parse.starter.MyProfile
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:11:9-56
+	android:name
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:11:19-44
+activity#com.parse.starter.MainPageActivity
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:12:9-54
+	android:name
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:12:19-51
 activity#com.parse.starter.MainActivity
-ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:25:9-33:20
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:13:9-21:20
 	android:label
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:27:13-36
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:15:13-36
 	android:name
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:26:13-41
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:14:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:28:13-32:29
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:29:17-69
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:31:17-77
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:19:27-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:23:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ea48b59582a2b96a00d654997189c575/play-services-ads-lite-9.4.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ea48b59582a2b96a00d654997189c575/play-services-ads-lite-9.4.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ba27721d7e6125cef0d651ba6eac44aa/play-services-analytics-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ba27721d7e6125cef0d651ba6eac44aa/play-services-analytics-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b1c59bf1d1aaf106cdc6b27a6fbb475e/play-services-analytics-impl-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b1c59bf1d1aaf106cdc6b27a6fbb475e/play-services-analytics-impl-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/3783beaf9f7e02c8a2cb3ccb82b4fe01/play-services-appinvite-9.4.0/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/3783beaf9f7e02c8a2cb3ccb82b4fe01/play-services-appinvite-9.4.0/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/fee04e7e52ff6d0e2cf2c423490b4f16/firebase-crash-9.4.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/fee04e7e52ff6d0e2cf2c423490b4f16/firebase-crash-9.4.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/54f15c965ab19a86d572bef329921a32/play-services-gcm-9.4.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/54f15c965ab19a86d572bef329921a32/play-services-gcm-9.4.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c105dd66f2f88a28668f2edd7505e7fe/play-services-iid-9.4.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c105dd66f2f88a28668f2edd7505e7fe/play-services-iid-9.4.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/15e915c86cf6bbca2daffa4d47359663/play-services-maps-9.4.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/15e915c86cf6bbca2daffa4d47359663/play-services-maps-9.4.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e9533e0e421b9431bd530fe14ea00d23/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e9533e0e421b9431bd530fe14ea00d23/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/d8b1010bd866092df94c2521254cb6ce/firebase-analytics-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/d8b1010bd866092df94c2521254cb6ce/firebase-analytics-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/48394fdde50fdb2432834d485d12e5c9/firebase-analytics-impl-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/48394fdde50fdb2432834d485d12e5c9/firebase-analytics-impl-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c6f33ef2c09645a1708ee9c28f05231e/firebase-iid-9.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c6f33ef2c09645a1708ee9c28f05231e/firebase-iid-9.4.0/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ea48b59582a2b96a00d654997189c575/play-services-ads-lite-9.4.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ea48b59582a2b96a00d654997189c575/play-services-ads-lite-9.4.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ba27721d7e6125cef0d651ba6eac44aa/play-services-analytics-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/ba27721d7e6125cef0d651ba6eac44aa/play-services-analytics-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b1c59bf1d1aaf106cdc6b27a6fbb475e/play-services-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/b1c59bf1d1aaf106cdc6b27a6fbb475e/play-services-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/15e915c86cf6bbca2daffa4d47359663/play-services-maps-9.4.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/15e915c86cf6bbca2daffa4d47359663/play-services-maps-9.4.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/bf1bd438eab1aae672661f0b3a758bbd/play-services-nearby-9.4.0/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/bf1bd438eab1aae672661f0b3a758bbd/play-services-nearby-9.4.0/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e9533e0e421b9431bd530fe14ea00d23/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e9533e0e421b9431bd530fe14ea00d23/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/d8b1010bd866092df94c2521254cb6ce/firebase-analytics-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/d8b1010bd866092df94c2521254cb6ce/firebase-analytics-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/48394fdde50fdb2432834d485d12e5c9/firebase-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/48394fdde50fdb2432834d485d12e5c9/firebase-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c6f33ef2c09645a1708ee9c28f05231e/firebase-iid-9.4.0/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c6f33ef2c09645a1708ee9c28f05231e/firebase-iid-9.4.0/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml:27:22-76
 uses-sdk
 INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/tingyan/AndroidStudioProjects/Parse-Server-Starter-Project/IFriendProject/src/main/AndroidManifest.xml
@@ -268,6 +279,8 @@ MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/tingyan/.gradle/c
 MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/92286ce0648fa0dfd1b8eeb2375384d8/appcompat-v7-23.4.0/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/92286ce0648fa0dfd1b8eeb2375384d8/appcompat-v7-23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/98dcb2f66c2e0ea1686d3c0235838a82/animated-vector-drawable-23.4.0/AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/98dcb2f66c2e0ea1686d3c0235838a82/animated-vector-drawable-23.4.0/AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/tingyan/.gradle/caches/transforms-2/files-2.1/e63dd9cc1eaa39c060ce49d5f17eb556/support-vector-drawable-23.4.0/AndroidManifest.xml:5:5-43

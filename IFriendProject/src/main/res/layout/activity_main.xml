@@ -23,7 +23,7 @@
         android:layout_width="388dp"
         android:layout_height="86dp"
         android:gravity="center"
-        android:text="IFriend"
+        android:text="Welcome To IFriend"
         android:textColor="#2196F3"
         android:textSize="30sp"
         android:textStyle="bold" />

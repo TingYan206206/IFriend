@@ -10,7 +10,136 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0910c2c7-42bf-4b57-a6af-dd362dc992ce" name="Default" comment="" />
+    <list default="true" id="0910c2c7-42bf-4b57-a6af-dd362dc992ce" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MainPageActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MyProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_main_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_my_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IFriendProject/src/main/res/menu/setting_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/IFriendProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/IFriendProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/generated/not_namespaced_r_class_sources/debug/r/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/generated/not_namespaced_r_class_sources/debug/r/android/support/v7/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/generated/not_namespaced_r_class_sources/debug/r/android/support/v7/mediarouter/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/generated/not_namespaced_r_class_sources/debug/r/android/support/v7/mediarouter/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/generated/not_namespaced_r_class_sources/debug/r/com/google/android/gms/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/generated/not_namespaced_r_class_sources/debug/r/com/google/android/gms/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/generated/not_namespaced_r_class_sources/debug/r/com/parse/starter/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/generated/not_namespaced_r_class_sources/debug/r/com/parse/starter/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/KHw6qgtHzPObsWziLa0r6BJe7mI=" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/KHw6qgtHzPObsWziLa0r6BJe7mI=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/instant_app_manifest/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/instant_app_manifest/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/appcompat/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/android/support/v7/mediarouter/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$raw.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$raw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/google/android/gms/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$mipmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$mipmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$raw.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$raw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/javac/debug/classes/com/parse/starter/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/legacy_multidex_aapt_derived_proguard_rules/debug/processDebugResources/manifest_keep.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/legacy_multidex_aapt_derived_proguard_rules/debug/processDebugResources/manifest_keep.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/manifest_merge_blame_file/debugAndroidTest/manifest-merger-blame-debug-androidTest-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/manifest_merge_blame_file/debugAndroidTest/manifest-merger-blame-debug-androidTest-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/merged_manifests/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/merged_manifests/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/merged_manifests/debugAndroidTest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/merged_manifests/debugAndroidTest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/processed_res/debug/processDebugResources/out/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/processed_res/debug/processDebugResources/out/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_light.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$attr.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$layout.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$style.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/appcompat/R$styleable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$attr.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$layout.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$style.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/android/support/v7/mediarouter/R$styleable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$attr.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$layout.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$raw.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$raw.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$style.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/google/android/gms/R$styleable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$attr.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$attr.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$bool.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$bool.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$color.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$color.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$dimen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$dimen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$drawable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$integer.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$integer.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$layout.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$mipmap.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$mipmap.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$raw.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$raw.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$style.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R$styleable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R.dex" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/intermediates/transforms/dexBuilder/debug/0/com/parse/starter/R.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/outputs/apk/debug/IFriendProject-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/outputs/apk/debug/IFriendProject-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <ignored path="Parse-Server-Starter-Project.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,36 +172,96 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+            <state relative-caret-position="35">
+              <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/AndroidManifest.xml">
+        <entry file="file://$PROJECT_DIR$/IFriendProject/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            <state relative-caret-position="225">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
-          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_my_profile.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="1046">
+              <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MainPageActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MyProfile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IFriendProject/proguard-rules.pro">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -80,33 +269,68 @@
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/ParseStarterProject/build.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/StarterApplication.java" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java" />
         <option value="$PROJECT_DIR$/IFriendProject/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/IFriendProject/build.gradle" />
-        <option value="$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MainActivity.java" />
         <option value="$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_main_page.xml" />
+        <option value="$PROJECT_DIR$/IFriendProject/src/main/res/menu/setting_menu.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/IFriendProject/build.gradle" />
+        <option value="$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_my_profile.xml" />
+        <option value="$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MainActivity.java" />
+        <option value="$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MyProfile.java" />
+        <option value="$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MainPageActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="165" />
-    <option name="y" value="25" />
+    <option name="x" value="1752" />
+    <option name="y" value="411" />
     <option name="width" value="1333" />
     <option name="height" value="803" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
               <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
               <item name="IFriendProject" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="IFriendProject" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="IFriendProject" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="IFriendProject" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="starter" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="IFriendProject" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
+              <item name="IFriendProject" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
             <path>
               <item name="Parse-Server-Starter-Project" type="1abcf292:AndroidViewProjectNode" />
@@ -117,11 +341,10 @@
         </subPane>
       </pane>
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -129,6 +352,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.parse.starter" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -338,10 +569,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="165" y="25" width="1333" height="803" extended-state="0" />
-    <editor active="true" />
+    <frame x="1752" y="411" width="1333" height="803" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16963594" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26568553" />
       <window_info id="Structure" order="1" weight="0.24959612" />
       <window_info id="Captures" order="2" side_tool="true" weight="0.24959612" />
       <window_info id="Designer" order="3" />
@@ -364,7 +594,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="bottom" id="Build" order="13" weight="0.23628692" />
+      <window_info active="true" anchor="bottom" id="Build" order="13" visible="true" weight="0.23628692" />
       <window_info anchor="bottom" id="Android Profiler" order="14" />
       <window_info anchor="bottom" id="Logcat" order="15" weight="0.32630098" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -381,10 +611,56 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/StarterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/res/menu/setting_menu.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_main_page.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/IFriendProject/proguard-rules.pro">
@@ -397,49 +673,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/StarterApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IFriendProject/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_my_profile.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1046">
+          <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
         </state>
       </provider>
-      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MyProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        <state relative-caret-position="35">
+          <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/res/layout/activity_main.xml">
+    <entry file="file://$PROJECT_DIR$/IFriendProject/src/main/java/com/parse/starter/MainPageActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+        <state relative-caret-position="434">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
   </component>
 </project>

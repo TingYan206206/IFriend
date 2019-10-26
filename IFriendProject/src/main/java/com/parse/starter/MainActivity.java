@@ -31,6 +31,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
   Button signUpBtn, loginBtn;
 
+  public void enterMainPage(){
+    Intent intent = new Intent(getApplicationContext(), MainPageActivity.class);
+    startActivity(intent);
+  }
+
   @Override
   public void onClick(View view) {
     EditText username = (EditText)findViewById(R.id.usernameEditText);
@@ -58,36 +63,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 //        });
       }else{
         Log.i("button clicked: ", "login");
+        // to do : check if the user/password matches DB
+
+
+        // then enter main page
+        enterMainPage();
+
       }
     }
   }
 
-  public boolean checkInput(View view){
-    EditText username = (EditText)findViewById(R.id.usernameEditText);
-    EditText password = (EditText) findViewById(R.id.passwordEditText);
-
-    if(username.getText().toString().matches("") || password.getText().toString().matches("")){
-      Toast.makeText(this, "Both username and password are required", Toast.LENGTH_SHORT).show();
-    }
-    return true;
-  }
-
-  public void signupClicked(View view){
-    if(checkInput(view)) {
-
-
-
-
-    }
-
-    }
-
-    public void loginClicked(View view){
-      if(checkInput(view)) {
-        Log.i("button clicked: ", "login");
-      }
-
-  }
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
